@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5555b6d46f6c4e9789a5",
-    "url": "/drum-machine/static/css/main.57d66dba.chunk.css"
+    "revision": "373585dd5ddb32de3c4e",
+    "url": "/drum-machine/static/css/main.8ef4981d.chunk.css"
   },
   {
-    "revision": "5555b6d46f6c4e9789a5",
-    "url": "/drum-machine/static/js/main.5555b6d4.chunk.js"
+    "revision": "373585dd5ddb32de3c4e",
+    "url": "/drum-machine/static/js/main.373585dd.chunk.js"
   },
   {
     "revision": "c73e5ac2cc3e61c10a29",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/drum-machine/static/media/speakingofimdb.d1f20e1d.wav"
   },
   {
-    "revision": "5ae7c7cc7e7ad0ad8b6c9bf6fcecbfa2",
-    "url": "/drum-machine/static/media/dickspicks.5ae7c7cc.wav"
+    "revision": "bf85d312f34c81b398021e1324d9e94e",
+    "url": "/drum-machine/static/media/threemenandamovie.bf85d312.wav"
   },
   {
     "revision": "a66d20d960df38eb1ed201f525538da2",
@@ -48,11 +48,15 @@ self.__precacheManifest = [
     "url": "/drum-machine/static/media/buybuybuy.3fdbb8c1.wav"
   },
   {
-    "revision": "b6681a106ee7ae496c1ac24d76bd4d2a",
-    "url": "/drum-machine/static/media/itwaslong.b6681a10.wav"
+    "revision": "3a121671e1acac7938073955f31791a3",
+    "url": "/drum-machine/static/media/mouseteeth.3a121671.wav"
   },
   {
-    "revision": "50b86e9c4de0ff8e8035f12ef69e2d97",
+    "revision": "af2b31f3503bb74501e8009d62ad82bf",
+    "url": "/drum-machine/static/media/3maab.af2b31f3.jpg"
+  },
+  {
+    "revision": "61218537a6949850713c08c3dd743e68",
     "url": "/drum-machine/index.html"
   }
 ];
